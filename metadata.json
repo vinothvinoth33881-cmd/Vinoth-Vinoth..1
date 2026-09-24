@@ -1,0 +1,6 @@
+{
+  "name": "NephroScan AI",
+  "description": "AI-Powered Medical Image Diagnosis System for Kidney Disease Using Machine Learning",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
